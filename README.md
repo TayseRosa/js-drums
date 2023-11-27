@@ -73,8 +73,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-Copyright :copyright: 2023 - JS Drums - Feito com por ❤️ Tayse Rosa
+Copyright :copyright: 2023 · Feito com por ❤️ Tayse Rosa · JS Drums
