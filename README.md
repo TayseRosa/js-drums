@@ -1,5 +1,7 @@
 # Bateria JS
 
+Link do projeto em funcionamento: https://webbattery.coderosa.tech/
+
 <img src="drums.png" alt="Exemplo imagem">
 
 > Bateria em Javascript, usado para treinar habilidades de emitir sons ao clicar em determinadas teclas
