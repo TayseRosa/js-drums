@@ -1,6 +1,6 @@
 # Bateria JS
 
-Link do projeto em funcionamento: https://webbattery.coderosa.tech/
+Link do projeto em funcionamento: https://bateria.coderosa.tech/
 
 <img src="drums.png" alt="Exemplo imagem">
 
